@@ -1,6 +1,6 @@
 # Wii
 --Detalles de la Wii--
- > Precio: 75$
+ > Precio: 51$
 ---Contenido---
  > Caja original
  > Consola Wii Family Edition hackeada color negro (RVL-101)
